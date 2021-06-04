@@ -1,5 +1,5 @@
 // Storage for messages
-const message1 = [];
+const message1 = ['Stealthy Ninja', 'Strong Warrior', 'Pro Hacker', 'Ninja Coder', 'Ninja Hacker', 'Pro Coder'];
 const message2 = [];
 const message3 = [];
 

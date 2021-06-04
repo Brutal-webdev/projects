@@ -23,3 +23,4 @@ const messageOutput = () => {
 
 // log console to tell user to type the function into the console
 console.log('Hey there type messageOutput() into the console to get your random message today!');
+messageOutput();

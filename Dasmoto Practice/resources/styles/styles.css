@@ -1,0 +1,37 @@
+header {
+    background-image: url("../images/pattern.webp");
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.first {
+    background-color: mediumspringgreen;
+}
+
+.second {
+    background-color: lightcoral;
+}
+
+.third {
+    background-color: skyblue;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}

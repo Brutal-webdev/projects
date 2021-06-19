@@ -9,6 +9,7 @@ all the languages i want to learn or be good at
 5. Redux
 6. BootStrap 5
 7. Sass
+8. Typescript
 
 Back End
 1. SQL

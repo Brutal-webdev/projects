@@ -19,3 +19,6 @@ Back End
 5. Php?
 6. MongoDB
 7. Python
+
+
+All of these projects are from codecademy! Currently None are Responsive.

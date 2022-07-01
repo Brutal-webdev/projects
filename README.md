@@ -7,7 +7,6 @@ all the languages i want to learn or be good at
 3. Javascript - Learning Currently
 4. React
 5. Redux
-6. BootStrap 5
 7. Sass - Learning Currently 
 8. Typescript
 
